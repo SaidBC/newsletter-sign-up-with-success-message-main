@@ -151,6 +151,11 @@ body {
     transition: all .2s ease-in-out;
 }
 
+/* Dismiss Btn */
+.container.submitted {
+    display: none
+}
+
 @media screen and (max-width:800px) {
     .container {
         width: 100%;
